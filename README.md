@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Friend 👋
 
 <!--
 **eltsai/eltsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![chrome dinosaur](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=eltsai&count_private=true&show_icons=true)
+
+Hi! I'm Elisa. I'm a first year Ph.D. Student in Computer Science at the University of Michigan. I'm advised by [Prof. Roya Ensafi](https://ensa.fi/). I'm part of the 🌎 [Censored Planet Lab](https://github.com/censoredplanetm).
+
+
+

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eltsai&count_private=true&show_icons=true)
 
-Hi! I'm Elisa. I'm a first year Ph.D. Student in Computer Science at the University of Michigan. I'm advised by [Prof. Roya Ensafi](https://ensa.fi/) and part of the 🌎 [Censored Planet Lab](https://github.com/censoredplanetm). I'm interested in Internet measuring and privacy-related topics.
+🌱I'm Elisa, a first year Ph.D. Student in Computer Science at the University of Michigan. I'm advised by [Prof. Roya Ensafi](https://ensa.fi/) and part of the 🌎 [Censored Planet Lab](https://github.com/censoredplanetm). I'm interested in Internet measuring and privacy-related topics.
 
 
 
@@ -27,5 +27,13 @@ I still don't get it but it seems like some of my code is now [lying under ice l
 
 
 
-Oh and my avatar is Mr. Tangyuan, he goes by Tang-Tang too. 🐈Cats are weird too but in a good way. Hopefully, this pandemic will be over soon so that I can meet my furry boy again.
+Oh and my avatar is Mr. Tangyuan, he goes by Tang-Tang too. 🐈Cats are weird too but in a good way. <!--Hopefully, this pandemic will be over soon so that I can meet my furry boy again.-->
+
+
+
+
+
+
+
+
 

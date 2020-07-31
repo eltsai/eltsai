@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![chrome dinosaur](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
+![cat-rex](./assets/cat-rex.gif)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eltsai&count_private=true&show_icons=true)
 
@@ -27,7 +27,7 @@ I still don't get it but it seems like some of my code is now [lying under ice l
 
 
 
-Oh and my avatar is Mr. Tangyuan, he goes by Tang-Tang too. 🐈Cats are weird too but in a good way. <!--Hopefully, this pandemic will be over soon so that I can meet my furry boy again.-->
+Oh and my avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈Cats are weird too but in a good way. <!--Hopefully, this pandemic will be over soon so that I can meet my furry boy again.-->
 
 
 

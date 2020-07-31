@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![cat-rex](./assets/cat-rex.gif)
+![cat-rex](https://github.com/eltsai/eltsai/raw/master/assets/cat-rex.gif)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eltsai&count_private=true&show_icons=true)
 

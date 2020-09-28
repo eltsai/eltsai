@@ -21,13 +21,9 @@ Here are some ideas to get you started:
 
 🌱I'm Elisa, a first year Ph.D. Student in Computer Science at the University of Michigan. I'm advised by [Prof. Roya Ensafi](https://ensa.fi/) and part of the 🌎 [Censored Planet Lab](https://github.com/censoredplanetm). I'm interested in Internet measuring and privacy-related topics.
 
+My avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈<!--Hopefully, this pandemic will be over soon so that I can meet my furry boy again.-->
 
-
-I still don't get it but it seems like some of my code is now [lying under ice layers in the Arctic](https://archiveprogram.github.com/). Humans are weird.
-
-
-
-Oh and my avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈Cats are weird too but in a good way. <!--Hopefully, this pandemic will be over soon so that I can meet my furry boy again.-->
+**Links:** [Soundcloud](https://soundcloud.com/elisastayshere), [Netease Music](https://music.163.com/#/artist?id=12158117), and [some comics I drew](https://etsai.site/tags/comics/)! 
 
 
 

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eltsai&count_private=true&show_icons=true)
 
-🌱I'm Elisa, a first year Ph.D. Student in Computer Science at the University of Michigan. I'm advised by [Prof. Roya Ensafi](https://ensa.fi/) and part of the 🌎 [Censored Planet Lab](https://github.com/censoredplanetm). I'm interested in Internet measuring and privacy-related topics.
+🌱I'm Elisa, a second year Ph.D. Student in Computer Science at the University of Michigan. I'm advised by [Prof. Roya Ensafi](https://ensa.fi/) and part of the 🌎 [Censored Planet Lab](https://github.com/censoredplanetm). I'm interested in understanding what would happen when messages are traversing the Internet, measuring the characteristics of the Internet and privacy-related topics. I am interested in how systems work in general.
 
 My avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈
 

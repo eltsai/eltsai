@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 My avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈
 
-**Links:** [Soundcloud](https://soundcloud.com/elisastayshere), [Netease Music](https://music.163.com/#/artist?id=12158117), and [some comics I drew](https://etsai.site/tags/comics/)! (and a benign telegram archive bot: [@ElisaArchivebot](https://t.me/ElisaArchivebot))
+**Links:** [Soundcloud](https://soundcloud.com/elisastayshere), [Netease Music](https://music.163.com/#/artist?id=12158117), and [some comics I drew](https://etsai.site/tags/comics/)! (and a benign telegram archive bot: [@ElisaArchivebot](https://t.me/ElisaArchivebot), [DumblelisaPaperNotes](https://t.me/dumblelisapapernotes), and [Squirrel Archive](https://t.me/SquirrelArchive) (CN))
 
 
 

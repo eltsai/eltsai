@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-🌱I'm Elisa. I am a 3rd year Ph.D. student at CSE@umich, working with Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). I'm interested in understanding what would happen when messages are traversing the Internet, measuring the characteristics of the Internet and privacy-related topics. I am interested in how systems work in general.
+🌱I'm Elisa. I am a ~~1st~~ ~~2nd~~ ~~3rd~~ 4th year (😱) Ph.D. student at CSE@umich, working with Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). I'm interested in understanding what would happen when messages are traversing the Internet, measuring the characteristics of the Internet and privacy-related topics. I am interested in how systems work in general.
 
 My avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈
 

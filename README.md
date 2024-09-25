@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 
 
-🌱I'm Elisa. I am a ~~1st~~ ~~2nd~~ ~~3rd~~ ~~4th~~ final year (😱) Ph.D. student at CSE@umich, working with Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). I'm interested in understanding what would happen when messages are traversing the Internet, measuring the characteristics of the Internet and privacy-related topics. I am interested in how systems work in general.
+🌱I'm Elisa. I am a ~~1st~~ ~~2nd~~ ~~3rd~~ ~~4th~~ final year (😱) Ph.D. student at CSE@umich, working with Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
+
 
 My avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈
 

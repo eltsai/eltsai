@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 
-🌱I'm Elisa. I am a ~~1st~~ ~~2nd~~ ~~3rd~~ ~~4th~~ final year (😱) Ph.D. student at CSE@umich, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. 
+🌱 Hi! I'm [Elisa](https://eltsai.github.io/). I am a ~~1st~~ ~~2nd~~ ~~3rd~~ ~~4th~~ final year (😱) Ph.D. student at CSE@umich, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. 
 
 Misc:
 - [📝 Blogs](https://etsai.site/) (primarily in Chinese)

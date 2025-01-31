@@ -21,16 +21,21 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltsai&hide=javascript,html,css)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltsai&hide=javascript,html,CSS)
+-->
 
 
+🌱I'm Elisa. I am a ~~1st~~ ~~2nd~~ ~~3rd~~ ~~4th~~ final year (😱) Ph.D. student at CSE@umich, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. 
 
-🌱I'm Elisa. I am a ~~1st~~ ~~2nd~~ ~~3rd~~ ~~4th~~ final year (😱) Ph.D. student at CSE@umich, working with Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. Outside of work, I write [blogs](https://etsai.site/) (primarily in Chinese) and [play ukulele](https://soundcloud.com/elisastayshere) occasionally, and once every few years I [draw stuff](https://etsai.site/tags/comics/).
+Misc:
+- [📝 Blogs](https://etsai.site/) (primarily in Chinese)
+- [🎵 Soundcloud](https://soundcloud.com/elisastayshere)
+- [🎵 网易云](https://music.163.com/#/artist?id=12158117)
+- [🎨 Random drawing](https://etsai.site/tags/comics/)
 
 
 My avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈
-
-**Links:** [Soundcloud](https://soundcloud.com/elisastayshere), [Netease Music](https://music.163.com/#/artist?id=12158117), and [some comics I drew](https://etsai.site/tags/comics/)! (and a benign telegram archive bot: [@ElisaArchivebot](https://t.me/ElisaArchivebot), [DumblelisaPaperNotes](https://t.me/dumblelisapapernotes), and [Squirrel Archive](https://t.me/SquirrelArchive) (CN))
 
 
 

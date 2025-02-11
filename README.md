@@ -30,9 +30,10 @@ Here are some ideas to get you started:
 
 Misc:
 - [📝 Blogs](https://etsai.site/) (primarily in Chinese)
-- [🎵 Soundcloud](https://soundcloud.com/elisastayshere)
+- [🎵 dumblelisa@Soundcloud](https://soundcloud.com/dumblelisa)
 - [🎵 网易云](https://music.163.com/#/artist?id=12158117)
 - [🎨 Random drawing](https://etsai.site/tags/comics/)
+- [Academic Homepage](https://eltsai.github.io/)
 
 
 My avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈

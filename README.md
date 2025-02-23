@@ -33,7 +33,7 @@ Misc:
 - [🎵 dumblelisa@Soundcloud](https://soundcloud.com/dumblelisa)
 - [🎵 网易云](https://music.163.com/#/artist?id=12158117)
 - [🎨 Random drawing](https://etsai.site/tags/comics/)
-- [Academic Homepage](https://eltsai.github.io/)
+- [‍🎓 Academic Homepage](https://eltsai.github.io/)
 
 
 My avatar is Mr. Tangyuan, and he goes by Tang-Tang. 🐈

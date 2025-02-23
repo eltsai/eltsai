@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 
 ![cat-rex](https://github.com/eltsai/eltsai/raw/master/assets/cat-rex.gif)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=eltsai&count_private=true&show_icons=true)
 
 
 
 <!--
+![github stats](https://github-readme-stats.vercel.app/api?username=eltsai&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltsai&hide=javascript,html,CSS)
 -->
 
 
-🌱 Hi! I'm [Elisa](https://eltsai.github.io/). I am a ~~1st~~ ~~2nd~~ ~~3rd~~ ~~4th~~ final year (😱) CSE Ph.D. student at the University of Michigan, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. 
+🌱 Hi! I'm [Elisa](https://eltsai.github.io/). I am a ~~1st~~ ~~2nd~~ ~~3rd~~ ~~4th~~ 5th year (😱) CSE Ph.D. student at the University of Michigan, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. 
 
 Misc:
 - [📝 Blogs](https://etsai.site/) (primarily in Chinese)

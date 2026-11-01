@@ -32,8 +32,7 @@ We humans extracted silicon from sand and built circuits that perform arithmetic
 
 
 Misc:
-- [📝 Blogs](https://etsai.site/) (primarily in Chinese)
-- [🎵 dumblelisa@Soundcloud](https://soundcloud.com/dumblelisa)
+- [🎵 dumblelisa@Soundcloud](https://soundcloud.com/bumblelisa)
 - [🎵 网易云](https://music.163.com/#/artist?id=12158117)
 - [🎨 Random drawing](https://etsai.site/tags/comics/)
 - [‍🎓 Academic Homepage](https://eltsai.github.io/)

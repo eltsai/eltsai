@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 Hi! I'm [Elisa](https://eltsai.github.io/). I ~~am a 1st 2nd 3rd 4th 5th year CSE Ph.D. student~~ received my Ph.D. in Computer Science and Engineering from the University of Michigan, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). My research focuses on building pragmatic, GenAI-powered systems for web security. I also design algorithms for efficient, high-quality training data selection for vision and large language models. 
+🌱 Hi! I'm [Elisa](https://eltsai.github.io/). I ~~am a 1st 2nd 3rd 4th 5th year CSE Ph.D. student~~ received my Ph.D. in Computer Science and Engineering from the University of Michigan, advised by Professor [Atul Prakash](https://web.eecs.umich.edu/~aprakash/). I am currently a software engineer at Google.
+
+We humans extracted silicon from sand and built circuits that perform arithmetic with 0s and 1s. We use these circuits to train and serve models that attempt to capture the statistical structure of the world. I’m interested in understanding how these models learn, reason, and generalize. My current work focuses on making this faster and with less computation.
+
 
 Misc:
 - [📝 Blogs](https://etsai.site/) (primarily in Chinese)
